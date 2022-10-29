@@ -1,0 +1,19 @@
+{
+  "name": "hojavidabootstrap",
+  "version": "1.0.0",
+  "description": "proyecto para mi book",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonatanareiza1/hojavidabootstrap.git"
+  },
+  "author": "Jhonatan Areiza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonatanareiza1/hojavidabootstrap/issues"
+  },
+  "homepage": "https://github.com/jhonatanareiza1/hojavidabootstrap#readme"
+}
